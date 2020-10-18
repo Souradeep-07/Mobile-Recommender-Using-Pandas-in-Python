@@ -1,0 +1,34 @@
+import pandas as pd
+
+df=pd.read_csv('Book1.csv')
+
+pd.set_option("display.max_columns",20)
+
+print("Welcome to our Mobile recommender program in Python.")
+
+print("This program is build using Python and by importing Pandas that will give you the recommendations after checking your requirements")
+
+print("To check the availiblity of a mobile phone as per your choice, please enter the following data")
+
+ram=int(input("Enter the minimum capacity of RAM (in GB)you want= "))
+
+plow=input("Enter the minimum budget= ")
+a=int(plow)
+
+phigh=input("Enter the maximum budget= ")
+b=int(phigh)
+
+storage=int(input("Enter the minimum storage capacity you want= "))
+
+new_df=df[(df.price_in_INR>=a) & (df.price_in_INR<=b) &(df.RAM_in_GB>=ram) & (df.storage_in_GB>=storage)]
+new_df=new_df.reset_index()
+
+print("Congratulations! You have ") 
+print(len(new_df.index)) 
+print("mobile phone(s) to choose from.")
+
+print("here are the mobile phone(s) that fits your category:")
+
+print(new_df)
+
+print("Thank you for using the program. We hope that we were able to give you good suggestions.")
