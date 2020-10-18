@@ -1,0 +1,34 @@
+Is_a_flagship_phone,manufacturer_name,model_name,RAM_in_GB,CPU,screen_size,price_in_INR,storage_in_GB
+Yes,Apple,iPhone 11,4,A13 Bionic,6.1,68300,64
+Yes,Apple,iphone 11 Pro,4,A13 Bionic,5.8,96990,64
+Yes,Apple,iPhone 11 Pro Max,4,A13 Bionic,6.5,117100,64
+Yes,Apple,iPhone SE,3,A13 Bionic,4.7,39900,64
+Yes,Apple,iPhone 12 Mini,4,A14 Bionic,5.4,69900,64
+Yes,Apple,iPhone 12,6,A14 Bionic,6.1,79900,64
+Yes,Apple,iPhone XS,4,A12 Bionic,5.8,74999,64
+Yes,Apple,iPhone XS Max,4,A12 Bionic,6.5,124900,64
+No,Xiaomi,Redmi 8a Dual,2,Snapdragon 439,6.22,6499,32
+No,Xiaomi,Mi A2,4,Snapdragon 660,5.99,10990,64
+No,Xiaomi,Note 9,4,Mediatek Helio G85,6.53,10999,64
+No,Xiaomi,Redmi 9,4,Mediatek Helio G85,6.53,9999,64
+No,Xiaomi,Note 7 Pro,4,Snapdragon 675,6.3,12899,64
+No,Xiaomi,Note 8,4,Snapdragon 665,6.3,11499,64
+No,Xiaomi,Redmi 9,4,Mediatek Helio G35,6.53,8999,64
+No,Huawei,Y9s,6,Kirin 710,6.59,19990,128
+Yes,Huawei,P30 Pro,8,Kirin 980,6.47,55000,256
+No,Huawei,Honor 20i,4,Kirin 710,6.21,16999,128
+No,Huawei,Honor 8X,6,Kirin 710,6.5,14999,64
+Yes,Samsung,Galaxy S20 Ultra,12,Exynos 990,6.9,97999,128
+Yes,Samsung,Galaxy Note 20 Ultra,12,Exynos 990,6.9,104999,256
+No,Samsung,Galaxy M21,4,Exynos 9611,6.4,12499,64
+No,Samsung,Galaxy M01,3,SDM 439,5.7,7999,32
+No,Samsung,Galaxy M31,6,Exynos 9611,6.4,16499,128
+No,Samsung,Galaxy A71,8,SM7150,6.7,29499,128
+No,Oppo,F17,6,Snapdragon SD662,6.44,17999,128
+No,Oppo,A5,4,Snapdragon 665,6.5,11990,64
+No,Oppo,F17 Pro,8,Mediatek Helio P95,6.43,22990,128
+No,Oppo,A31,4,Mediatek P35,6.5,12490,64
+No,Vivo,V19,8,Snapdragon 712,6.44,24990,128
+No,Vivo,Y12,3,Mediatek Helio P22,6.35,10990,64
+No,Vivo,Y20,4,Snapdragon 460,6.51,12990,64
+Yes,Vivo,V17,8,Snapdragon 675,6.44,17990,128
